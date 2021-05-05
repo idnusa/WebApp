@@ -1,0 +1,15 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"0",
+      "link_redirect":"https://play.google.com/store/apps/details?id=com.codenesty.sejutaresepmasterchef",
+      "admob_inter":"ca-app-pub-4116037182023468/612467854",
+      "admob_banner":"ca-app-pub-4116037182023468/413883297",
+      "admob_open_ads":"ca-app-pub-4116037182023468/687305494",
+      "select_ads":"ADMOB",
+      "interval":"5",
+      "admob_reward":"ca-app-pub-4116037182023468/9954513850"
+    }
+  ]
+}
