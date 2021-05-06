@@ -10,7 +10,8 @@
       "select_ads":"ADMOB",
       "interval":"5",
       "admob_reward":"	ca-app-pub-3940256099942544/5224354917",
-      "link_yt":"https://www.youtube.com/channel/UCPt932KNizC6VIUDOHmiR9Q"
+      "link_yt_full":"https://www.youtube.com/watch?v=8X5lvsDYd-8",
+      "link_yt_short":"vnd.youtube:8X5lvsDYd-8"
     }
   ]
 }
