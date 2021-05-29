@@ -1,104 +1,11 @@
 {
   "payload":
   [
-    {
-      "id":1,
-      "app_name":"Ludo King",
-      "download_url1":"https://play.google.com/store/apps/details?id=com.ludo.king",      
-      "version":"1.0",
-      "description":"App Test",
-      "icon_url":"https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-512.png",
-      "package_name":"Ludo"
-    },
-    {
-      "id":2,
-      "app_name":"Ludo King",
-      "download_url1":"https://play.google.com/store/apps/details?id=com.ludo.king",      
-      "version":"1.0",
-      "description":"App Test",
-      "icon_url":"https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-512.png",
-      "package_name":"Ludo"
-    },
-    {
-      "id":3,
-      "app_name":"Ludo King",
-      "download_url1":"https://play.google.com/store/apps/details?id=com.ludo.king",      
-      "version":"1.0",
-      "description":"App Test",
-      "icon_url":"https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-512.png",
-      "package_name":"Ludo"
-    },
-    {
-      "id":4,
-      "app_name":"Ludo King",
-      "download_url1":"https://play.google.com/store/apps/details?id=com.ludo.king",      
-      "version":"1.0",
-      "description":"App Test",
-      "icon_url":"https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-512.png",
-      "package_name":"Ludo"
-    },
-    {
-      "id":5,
-      "app_name":"Ludo King",
-      "download_url1":"https://play.google.com/store/apps/details?id=com.ludo.king",      
-      "version":"1.0",
-      "description":"App Test",
-      "icon_url":"https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-512.png",
-      "package_name":"Ludo"
-    },
-    {
-      "id":6,
-      "app_name":"Ludo King",
-      "download_url1":"https://play.google.com/store/apps/details?id=com.ludo.king",      
-      "version":"1.0",
-      "description":"App Test",
-      "icon_url":"https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-512.png",
-      "package_name":"Ludo"
-    }
-  ],  
-  "Item":
-  [
-    {
-      "id":1,
-      "name":"Ludo King",
-      "image_url":"file:///android_asset/ludo.webp",
-      "video_url":"footbal",
-      "voice_url":"dosa_membawa_keburukan.mp3"
-    },
-    {
-      "id":2,
-      "name":"Homescapes",
-      "image_url":"file:///android_asset/home.webp",
-      "video_url":"flower",
-      "voice_url":"cinta_diam.mp3"
-    },
-    {
-      "id":3,
-      "name":"Minecraft",
-      "image_url":"file:///android_asset/mine.webp",
-      "video_url":"flower3",
-      "voice_url":"malas_ibadah.mp3"
-    },
-    {
-      "id":4,
-      "name":"Sonic the Hedgehog™ Classic",
-      "image_url":"file:///android_asset/sonic.webp",
-      "video_url":"footbal",
-      "voice_url":"malas_ibadah.mp3"
-    },
-    {
-      "id":5,
-      "name":"War Machines: Best Free Online War & Military Game",
-      "image_url":"file:///android_asset/machine.webp",
-      "video_url":"flower",
-      "voice_url":"cinta_diam.mp3"
-    },
-    {
-      "id":6,
-      "name":"Tank vs Helicopter. Free War Game: Massive Warfare",
-      "image_url":"file:///android_asset/heli.webp",
-      "video_url":"flower3",
-      "voice_url":"malas_ibadah.mp3"
-    }
+    {"id":1,"app_name":"Ludo King","download_url1":"https://play.google.com/store/apps/details?id=com.ludo.king","version":"1.0","description":"App Test","icon_url":"https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-512.png","package_name":"Ludo"},
+    {"id":2,"app_name":"Ludo King","download_url1":"https://play.google.com/store/apps/details?id=com.ludo.king","version":"1.0","description":"App Test","icon_url":"https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-512.png", "package_name":"Ludo"},
+    {"id":3,"app_name":"Ludo King","download_url1":"https://play.google.com/store/apps/details?id=com.ludo.king","version":"1.0","description":"App Test","icon_url":"https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-512.png","package_name":"Ludo"},
+    {"id":4,"app_name":"Ludo King","download_url1":"https://play.google.com/store/apps/details?id=com.ludo.king","version":"1.0","description":"App Test","icon_url":"https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-512.png","package_name":"Ludo"},
+    {"id":5,"app_name":"Ludo King","download_url1":"https://play.google.com/store/apps/details?id=com.ludo.king","version":"1.0","description":"App Test","icon_url":"https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-512.png","package_name":"Ludo"},
+    {"id":6,"app_name":"Ludo King","download_url1":"https://play.google.com/store/apps/details?id=com.ludo.king","version":"1.0","description":"App Test","icon_url":"https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-512.png","package_name":"Ludo"}
   ]
-,"totalResults":"258","Response":"True"}
+,"totalResults":"6","Response":"True"}
