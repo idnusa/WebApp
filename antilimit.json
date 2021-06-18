@@ -1,7 +1,7 @@
 {
   "networks": {
-    "admob_activated": true,
-    "fan_activated": false
+    "admob_activated": false,
+    "fan_activated": true
   },
   "ad_units": [
     {
