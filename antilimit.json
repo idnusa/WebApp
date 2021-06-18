@@ -1,0 +1,61 @@
+{
+  "networks": {
+    "admob_activated": false,
+    "fan_activated": true
+  },
+  "ad_units": [
+    {
+      "limit_activated": false,
+      "unit_id": "1564516670394005_1564551527057186",
+      "ads_activated": true,
+      "clicks": 1,
+      "impressions": 1000,
+      "delay_ms": 0,
+      "ban_hours": 1,
+      "hide_on_click": true
+    },
+    {
+      "limit_activated": false,
+      "unit_id": "1564516670394005_1564522647060074",
+      "ads_activated": true,
+      "clicks": 2,
+      "impressions": 1000,
+      "delay_ms": 0,
+      "ban_hours": 1,
+      "hide_on_click": true
+    },
+    {
+      "limit_activated": true,
+      "unit_id": "ca-app-pub-8281466180702761/6039096525",
+      "ads_activated": true,
+      "clicks": 2,
+      "impressions": 20,
+      "delay_ms": 3000,
+      "ban_hours": 1,
+      "hide_on_click": true
+    },
+    {
+      "limit_activated": true,
+      "unit_id": "ca-app-pub-8281466180702761/9786769849",
+      "ads_activated": true,
+      "clicks": 2,
+      "impressions": 20,
+      "delay_ms": 3000,
+      "ban_hours": 1,
+      "hide_on_click": true
+    },
+    {
+      "limit_activated": true,
+      "unit_id": "ca-app-pub-8281466180702761/9990977496",
+      "ads_activated": true,
+      "clicks": 2,
+      "impressions": 20,
+      "delay_ms": 3000,
+      "ban_hours": 1,
+      "hide_on_click": true
+    }
+  ]
+}
+
+
+
