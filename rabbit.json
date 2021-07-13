@@ -4,12 +4,12 @@
     {
       "status_redirect":"0",
       "link_redirect":"https://play.google.com/store/apps/details?id=",
-      "admob_inter":"ca-app-pub-4116037182023468/7233422682",
-      "admob_banner":"ca-app-pub-4116037182023468/5295662662",
-      "admob_open_ads":"ca-app-pub-4116037182023468/7360581049",
+      "admob_inter":"ca-app-pub-5799493996733576/2271507487",
+      "admob_banner":"ca-app-pub-5799493996733576/6447675773",
+      "admob_open_ads":"ca-app-pub-5799493996733576/4136087643",
       "select_ads":"ADMOB",
       "interval":"5",
-      "admob_reward":"ca-app-pub-4116037182023468/4224115961",
+      "admob_reward":"ca-app-pub-5799493996733576/2823005977",
       "link_yt_full":"https://www.youtube.com/watch?v=8SWceCWTtjQ",
       "link_yt_short":"vnd.youtube:8SWceCWTtjQ"
     }
