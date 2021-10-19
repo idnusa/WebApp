@@ -2,7 +2,7 @@
 "Ads":
   [
     {
-      "status_redirect":"1",
+      "status_redirect":"0",
       "link_redirect":"https://play.google.com/store/apps/details?id=com.codenesty.whatstoolspro",
       "admob_inter":"ca-app-pub-4116037182023468/3163778832",
       "admob_banner":"ca-app-pub-4116037182023468/7670834201",
