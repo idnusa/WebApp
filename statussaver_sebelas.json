@@ -10,7 +10,8 @@
       "select_ads":"ADMOB",
       "interval":"5",
       "admob_reward":"ca-app-pub-4116037-",
-      "id_video_youtube":"8X5lvsDYd-8"
+      "id_video_youtube":"8X5lvsDYd-8",
+      "FirstOpenApp":"false"
     }
   ],
  
