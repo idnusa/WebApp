@@ -1,5 +1,5 @@
 {
-"Ads":
+"AdsDemo":
   [
     {
       "status_redirect":"0",
@@ -14,7 +14,7 @@
       "FirstOpenApp":"true"
     }
   ],
- "AdsOri":
+ "Ads":
   [
     {
       "status_redirect":"0",
